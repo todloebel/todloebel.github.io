@@ -1,0 +1,28 @@
+# site
+title: TheCleverTod
+baseurl: "/theclevertod"
+url: "http://lily.work"
+favicon: "/assets/sample/ico.png"
+g_analytics: UA-12345678-1
+
+# bio
+header: Tod Loebel
+desc: >
+  A Jekyll theme (that looks awesome). Louie is free, lightweight,
+  and customizable as a blog, archive, or portfolio.
+
+# posts
+date_format: "%b %-d, %Y"
+post_title: Title
+post_date: Date
+post_cat: Category
+
+# post detail
+prev-next: false
+
+# build settings
+markdown: kramdown
+# theme: louie
+exclude:
+  - Gemfile
+  - Gemfile.lock

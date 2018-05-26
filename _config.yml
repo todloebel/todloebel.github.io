@@ -1,0 +1,30 @@
+
+# site
+title: TheCleverTod
+#baseurl: "/theclevertod"
+#url: "theclevertod.info"
+#favicon: "/assets/sample/ico.png"
+g_analytics:
+
+# bio
+header: Tod
+desc: Tod Loebel is a Strategist in New York City.
+      He works at the intersesction of people, technology, and environment.
+      Tod is employed at Gensler as part of the Experience Strategy group.
+      Occassionally, he tells jokes. This site is a collection of thoughts.
+
+# posts
+date_format: "%b %-d, %Y"
+post_title: Title
+post_date: Date
+post_cat: Tags
+
+# post detail
+prev-next: false
+
+# build settings
+markdown: kramdown
+# theme: louie
+exclude:
+  - Gemfile
+  - Gemfile.lock
